@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Daniel Ifediba...</h1>
-<h3 align="center">A certified Data Scientist, Data Analyst and Founder of Daniel Analytics. I help companies, businesses and stakeholders make data-driving decisions to drive business growth. I also help yound data wizards kickstart their data careers</h3>
+<h5 align="center">A certified Data Scientist, Data Analyst and Founder of Daniel Analytics. I help companies, businesses and stakeholders make data-driving decisions to drive business growth. I also help yound data wizards kickstart their data careers</h5>
 
-<p align="center"> <a href="https://www.linkedin.com/in/daniel-ifediba/"><img src="https://img.shields.io/badge/-Daniel%20Ifediba-blue?logo=linkedin&style=for-the-badge" alt="Daniel Ifediba" /></a> 
+<p align="center"> <a href="https://www.linkedin.com/in/daniel-ifediba/"><img src="https://img.shields.io/badge/-Connect With Daniel%20Ifediba-blue?logo=linkedin&style=for-the-badge" alt="Daniel Ifediba" /></a>
+<p align="center"> <a href="https://twitter.com/Daniel_ifediba" target="blank"><img src="https://img.shields.io/twitter/follow/Daniel_ifediba?logo=twitter&style=for-the-badge" alt="Daniel_ifediba" /></a> </p>
 <p align="center"> <a href="https://linktr.ee/daniel_ifediba" target="blank"> More About Me </a> </p>
 
 
