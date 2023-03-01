@@ -5,7 +5,7 @@
 <p align="center"> <a href="https://twitter.com/Daniel_ifediba" target="blank"><img src="https://img.shields.io/badge/-Follow Daniel_ifediba-white?logo=twitter&style=for-the-badge" alt="Daniel_ifediba" /></a> </p>
 <p align="center"> <a href="https://www.instagram.com/in/daniel.analytics/"><img src="https://img.shields.io/badge/-Follow Daniel%20Analytics-white?logo=instagram&style=for-the-badge" alt="Daniel Ifediba" /></a>
   <p align="center"> <a href="https://www.youtube.com/channel/UCxzUAVnOr2F3emHy2SxwTGg" target="blank"><img src="https://img.shields.io/badge/-Susbcribe To  Daniel%20Analytics-red?logo=youtube&style=for-the-badge" alt="Daniel_ifediba" /></a> </p>
-<p align="center"> <a href="https://linktr.ee/daniel_ifediba" target="blank"><img src="https://img.shields.io/badge/-More About Daniel%20fediba-white?logo=linktree&style=for-the-badge" alt="Daniel_ifediba" /></a> </p>
+<p align="center"> <a href="https://linktr.ee/daniel_ifediba" target="blank"><img src="https://img.shields.io/badge/-Daniel%20fediba's Portfolio Website-white?logo=linktree&style=for-the-badge" alt="Daniel_ifediba" /></a> </p>
 
 
 
