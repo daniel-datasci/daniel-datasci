@@ -23,7 +23,19 @@
 
 - ⚡ Fun fact **There's nothing funny**
 
-##### More On Daniel Analytics...
+<h3 align="left">Featured Projects</h3>
+<p align="left"> <p>
+<p align="left"> <a href="https://github.com/daniel-datasci/Retirement-Income-Predictor"><img src="https://img.shields.io/badge/-Retirement_Income_Predictor-black?logo=github&style=for-the-badge" alt="Retirement Income Predictor"/></a>
+<p align="left"> The organization looks to predict the ideal income (the maximum amount that will last until death with a certain confidence level), a person must draw from retirement using personal, investment and retirement data. Ideal income is defined as the maximum amount that will last until death with a certain confidence level..<p>
+<p align="left">In this project, varuious machine learning models were employed. The focus was to find a model that helps reduce over-fitting, gives a low RMSE, can compute prediction at a faster rate and consumes low memory.<p>
+<p align="left">Models such as CatBoost, XGBoost and LightGBM were used.<p>
+  
+
+ <p align="left"> <a href="https://github.com/daniel-datasci/Sales-Insights"><img src="https://img.shields.io/badge/-Sales_Insights-black?logo=github&style=for-the-badge" alt="Sales Insights"/></a>
+<p align="left"> The company seeks to view the performance of a their products in four different categories across 4 years, and also they need some professional advice on what product to focus on and what to do with products that performed very low. Comparative Cost Advantage was used to give recoomendation. This project was done using excel but Power BI can also be used.<p>
+
+  
+### More On Daniel Analytics...
 <!-- BLOG-POST-LIST:START -->
 - [What we do and the lives we've touched...](https://daniel-datasci.github.io/dandiba2.github.io/generic.html)
 - [Setting the right tempo for 2023](https://youtu.be/04e3GXCtekQ)
