@@ -25,9 +25,15 @@
 
 <h3 align="left">Featured Projects</h3>
 <p align="left"> <p>
+ 
+<p align="left"> <a href="https://github.com/daniel-datasci/HR-MYSQL-POWERBI-PROJECT"><img src="https://img.shields.io/badge/-HUMAN_RESOURCE_ANALYSIS-black?logo=github&style=for-the-badge" alt="HR PROJECT (SQL & POWER BI)"/></a>
+<p align="left"> Considering expansion, HiltopGroup have decided to analyze data fro the past 20 years, excluding 2022 ans 2021, all they seek is to gain insight on employee and department performance..<p>
+<p align="left">In this project, both SQL and Power BI were employed.<p>
+
+  
 <p align="left"> <a href="https://github.com/daniel-datasci/Retirement-Income-Predictor"><img src="https://img.shields.io/badge/-Retirement_Income_Predictor-black?logo=github&style=for-the-badge" alt="Retirement Income Predictor"/></a>
 <p align="left"> The organization looks to predict the ideal income (the maximum amount that will last until death with a certain confidence level), a person must draw from retirement using personal, investment and retirement data. Ideal income is defined as the maximum amount that will last until death with a certain confidence level..<p>
-<p align="left">In this project, varuious machine learning models were employed. The focus was to find a model that helps reduce over-fitting, gives a low RMSE, can compute prediction at a faster rate and consumes low memory.<p>
+<p align="left">In this project, various machine learning models were employed. The focus was to find a model that helps reduce over-fitting, gives a low RMSE, can compute prediction at a faster rate and consumes low memory.<p>
 <p align="left">Models such as CatBoost, XGBoost and LightGBM were used.<p>
   
 
