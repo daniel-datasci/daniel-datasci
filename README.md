@@ -56,7 +56,7 @@ I am a certified Data Scientist, Data Analyst and Founder of Daniel Analytics. I
 <br>
 
  <p align="left"> <a href="https://github.com/daniel-datasci/laptop_price_predictor"><img src="https://img.shields.io/badge/-Laptop_Price_Predictor-black?logo=github&style=for-the-badge" alt="Laptop Price Predictor"/></a>
-<p align="left"> This project involved building a model capable of predicting the price range of a laptop based on the laptop's software and hardware specification.<p>
+<p align="left"> Imagine never again having to worry about walking into a store and realizing that the laptop you need is way beyond your budget. Our project aims to solve this common challenge faced by tech enthusiasts and laptop buyers alike. By leveraging the power of data science, we have developed an intelligent system that provides estimated laptop prices based on desired specifications. With this innovative tool, you can confidently enter a store, knowing exactly how much you need to spend. Say goodbye to surprises and hello to a seamless and informed laptop buying experience.<p>
 
  ---
  
