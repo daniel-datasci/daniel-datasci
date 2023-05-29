@@ -55,8 +55,8 @@ I am a certified Data Scientist, Data Analyst and Founder of Daniel Analytics. I
 <p align="left">Models such as CatBoost, XGBoost and LightGBM were used.<p>
 <br>
 
- <p align="left"> <a href="https://github.com/daniel-datasci/Sales-Insights"><img src="https://img.shields.io/badge/-Sales_Insights-black?logo=github&style=for-the-badge" alt="Sales Insights"/></a>
-<p align="left"> The company seeks to view the performance of a their products in four different categories across 4 years, and also they need some professional advice on what product to focus on and what to do with products that performed very low. Comparative Cost Advantage was used to give recoomendation. This project was done using excel but Power BI can also be used.<p>
+ <p align="left"> <a href="https://github.com/daniel-datasci/laptop_price_predictor"><img src="https://img.shields.io/badge/-Laptop_Price_Predictor-black?logo=github&style=for-the-badge" alt="Laptop Price Predictor"/></a>
+<p align="left"> This project involved building a model capable of predicting the price range of a laptop based on the laptop's software and hardware specification.<p>
 
  ---
  
