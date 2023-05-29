@@ -38,6 +38,7 @@ I am a certified Data Scientist, Data Analyst and Founder of Daniel Analytics. I
 - Machine Learning
 - Data Analytics
 - Front End Development
+- Communication
 
 ---
 
