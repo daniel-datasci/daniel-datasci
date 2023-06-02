@@ -45,6 +45,21 @@ I am a certified Data Scientist, Data Analyst and Founder of Daniel Analytics. I
 <h3 align="left">Featured Projects</h3>
 <p align="left"> <p>
  
+<p align="left"> <a href="https://github.com/daniel-datasci/MySQL-Tableau-for-Data-Analytics-and-Business-Intelligence"><img src="https://img.shields.io/badge/-MySQL_Tableau_for_Data_Analytics_and_Business_Intelligence-black?logo=github&style=for-the-badge" alt="MySQL Tableau for Data-Analytics and Business Intelligence"/></a>
+<p align="left"> SQL - MySQL for Data Analytics and Business Intelligence: data analysis and data visualizations for answering business related questions for management..<p>
+<p align="left">In this project, both SQL and Tableau were used.<p>
+<br>
+
+<p align="left"> <a href="https://github.com/daniel-datasci/Instacart-Market-Basket-Analysis"><img src="https://img.shields.io/badge/-Instacart_Market_Basket_Analysis-black?logo=github&style=for-the-badge" alt="Instacart Market Basket Analysis"/></a>
+<p align="left">The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are done to study customer purchase patterns and for better product marketing and cross-selling.<p>
+<p align="left">In this project, both Python and Machine Learning Algorithms.<p>
+<br>
+
+<p align="left"> <a href="https://github.com/daniel-datasci/HR-Analytics-Descriptive-Predictive-and-Prescriptive-Analysis-of-Employee-Turnover"><img src="https://img.shields.io/badge/-HR_Analytics-black?logo=github&style=for-the-badge" alt="HR Analytics"/></a>
+<p align="left">Company X has an attrition problem. Employee turnover is a serious problem for a company, it costs the company approximately 20% of that employee's salary to replace them. Not to mention the time and loss in productivity. Company X's HR department has given some data about their employees both existing employees and those who left. They want to have insights as to why employees are leaving, but most importantly they want a predictive model to say which employees are likely to leave.<p>
+<p align="left">In this project, Python was used for the analysis<p>
+<br>
+ 
 <p align="left"> <a href="https://github.com/daniel-datasci/HR-MYSQL-POWERBI-PROJECT"><img src="https://img.shields.io/badge/-HUMAN_RESOURCE_ANALYSIS-black?logo=github&style=for-the-badge" alt="HR PROJECT (SQL & POWER BI)"/></a>
 <p align="left"> Considering expansion, HiltopGroup have decided to analyze data fro the past 20 years, excluding 2022 ans 2021, all they seek is to gain insight on employee and department performance..<p>
 <p align="left">In this project, both SQL and Power BI were employed.<p>
