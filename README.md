@@ -2,17 +2,6 @@
 
 <div id="header" align="center">
  
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/daniel-ifediba/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.youtube.com/channel/UCxzUAVnOr2F3emHy2SxwTGg">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-    <a href="https://twitter.com/Daniel_ifediba">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
   <img src="https://komarev.com/ghpvc/?username=danil-datasci&style=flat-square&color=blue" alt=""/>
   <h1>
     
@@ -21,17 +10,25 @@
 
   
 ---
+# 💫 About Me:
+I am a certified Data Scientist, Data Analyst and Founder of Daniel Analytics. I help companies, businesses and stakeholders make data-driving decisions to drive business growth. I also help young data wizards kickstart their data careers 
 
-### :man_technologist: About Me :
-I am a certified Data Scientist, Data Analyst and Founder of Daniel Analytics. I help companies, businesses and stakeholders make data-driving decisions to drive business growth. I also help young data wizards kickstart their data careers <img src="https://media.giphy.com/media/1337mjZhdNJWSY/giphy.gif" width="30">.
 
-- :seedling: Constantly Learning to Improve my Skills
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/daniel.analytics) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/daniel-ifediba) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Daniel Analytics) 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Daniel_Ifediba-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-ifediba/)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
-### :bulb: Skills:
+### :bulb: Top Skills:
 - Python Programming
 - SQL
 - Data Science
@@ -39,6 +36,9 @@ I am a certified Data Scientist, Data Analyst and Founder of Daniel Analytics. I
 - Data Analytics
 - Front End Development
 - Communication
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 ---
 
@@ -111,4 +111,5 @@ I am a certified Data Scientist, Data Analyst and Founder of Daniel Analytics. I
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-datasci&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=daniel-datasci&theme=radical&no-frame=false&no-bg=false&margin-w=4)
